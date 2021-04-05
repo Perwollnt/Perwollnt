@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Proedge1WasTaken
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning javascript, PHP, java, python
