@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Proedge1WasTaken
 - 👀 I’m interested in death
-- 🌱 I’m currently learning javascript, PHP, java
+- 🌱 I’m currently learning javascript, PHP and this hellhole u can `java`
