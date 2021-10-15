@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Proedge1WasTaken
-- 👀 I’m interested in death
-- 🌱 I’m currently learning javascript, PHP and this hellhole u call `java`
-- These projects were ordered by clients but they allowed to make it open source
+- Perwolln't
+- knows a little java, javascript, python, php, css, scss, sql
+- i do discord bots for fun cuz no one pays me to do them
+- If you need a custom discord bot feel free to message me on discord (Perwolln't#9627)
+- I have some presets i can give you almost instantly
