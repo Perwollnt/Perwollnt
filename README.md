@@ -26,6 +26,9 @@ Experiences:
         - MinerLands:
             - Discord: https://discord.gg/ZzYjBngSyY
             - Language: HU
+
+- I also have a [swear database](https://github.com/Proedge1WasTaken/swear-database) and a [fake discord link database](https://github.com/Proedge1WasTaken/fake-discord-links)
+
 ## Stuff used:
 - [Node.js](https://nodejs.org/) - Node.js 
 - [VS code](https://code.visualstudio.com/) - Visual studio code
