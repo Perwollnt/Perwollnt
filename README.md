@@ -1,16 +1,18 @@
 # Perwolln't
 ### _Programmer, chatmod_
-I do programming, translating and moderating for food  
+I do programming, translating and moderating for food
 Experiences:
 - translating:
-    - I know: English, hungarian and romanian. Im learning german and japaneese
-    - I did anime translating with the [animem](https://animem.org/) team for a while
-    - Now i mostly do solo projects and requests
+
+        - I know: English, hungarian and romanian. Im learning german and japaneese
+        - I did anime translating with the [animem](https://animem.org/) team for a while
+        - Now i mostly do solo projects and requests
 - Programming:
-    - I do web backend development in php and im currently learning javascript
-    - I program discord bots in typescript, and c# or python if really needed
-    - I learn java in school but i only use it if needed for minecraft plugins
-    - sql, firebase, mongodb
+
+        - I do web backend development in php and im currently learning javascript
+        - I program discord bots in typescript, and c# or python if really needed
+        - I learn java in school but i only use it if needed for minecraft plugins
+        - sql, firebase, mongodb
 - Moderating:
  
         - Waik publikus discord szerver:
