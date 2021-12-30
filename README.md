@@ -1,5 +1,5 @@
 # Perwolln't
-### _Programmer, chatmod_
+### _Programmer, chatmod, translator_
 I do programming, translating and moderating for food
 Experiences:
 - translating:
