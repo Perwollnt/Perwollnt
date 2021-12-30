@@ -1,23 +1,45 @@
-- Perwolln't
-- knows a little java, javascript, python, php, css, scss, sql
-- i do discord bots for fun cuz no one pays me to do them
-- If you need a custom discord bot feel free to message me on discord (Perwolln't#9627)
-- I do chatmod stuff professionally on discord and minecraft
-- Currently i moderate 2 huge communities on discord:
-- SkyReflect:
--   ip: play.skyreflect.hu
--   Language: hu
--   Website: https://skyreflect.hu/
-- Minerlands:
--   ip: play.minerlands.eu
--   Language: hu
--   Website: NaN
-- Here are some more stuff
-- Waik team dc / mc:
--   Discord: https://discord.gg/RA8uasa
--   Website: Under construction
--   Mc ip: not 24/7 server
-- Nix minecraft admin
--   Twitch: https://www.twitch.tv/nixdix
--   Discord: https://discord.gg/dWxpKXAAce
--   Mc ip: in Pinned [here](https://discord.com/channels/562635983041069060/600466103151493120)
+# Perwolln't
+### _Programmer, chatmod_
+I do programming, translating and moderating for food
+Experiences:
+- translating:
+    - I know: English, hungarian and romanian. Im learning german and japaneese
+    - I did anime translating with the [animem](https://animem.org/) team for a while
+    - Now i mostly do solo projects and requests
+- Programming:
+    - I do web backend development in php and im currently learning javascript
+    - I program discord bots in typescript, and c# or python if really needed
+    - I learn java in school but i only use it if needed for minecraft plugins
+    - sql, firebase, mongodb
+- Moderating:
+ 
+        - Waik publikus discord szerver:
+            - Discord: https://discord.gg/RA8uasa
+            - Website: Under construction
+            - Language: HU, EN
+        - SkyReflect:
+            - Discord: https://skyreflect.hu/discord
+            - Website: https://skyreflect.hu/
+            - Language: HU
+        - MinerLands:
+            - Discord: https://discord.gg/ZzYjBngSyY
+            - Language: HU
+## Stuff used:
+- [Node.js](https://nodejs.org/) - Node.js 
+- [VS code](https://code.visualstudio.com/) - Visual studio code
+- [Py](https://www.python.org/) - Python
+- [Eclipse](https://www.eclipse.org/) - Eclipse for [java](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+- [vs](https://visualstudio.microsoft.com/) - For anything C# related
+- [AS](www.aegisub.org/downloads) - for subtitling
+- rest: Anime Studio, Ableton Live 9, Github desktop, Adobe photoshop 2020, WinSCP, firefox
+
+You can start every app i made in javascript with:
+```sh
+npm i --save
+node .
+```
+And every typescript app with:
+```sh
+npm i --save
+node dist/
+```
