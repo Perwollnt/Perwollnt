@@ -4,7 +4,7 @@ I do programming, translating and moderating for food
 Experiences:
 - translating:
 
-        - I know: English, hungarian and romanian. Im learning german and japaneese
+        - I know: English, hungarian and romanian.
         - I did anime translating with the [animem](https://animem.org/) team for a while
         - Now i mostly do solo projects and requests
 - Programming:
