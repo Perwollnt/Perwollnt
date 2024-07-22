@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Hello there</h1>
 
-I work as a freelance coder and translator. We can talk about business anytime
+I work as a backend/fullstack java dev. We can talk about business anytime
 ---
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Perwollnt&theme=dracula)
 ---
