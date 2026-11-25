@@ -3,7 +3,6 @@
 
 I work as a backend/fullstack java dev. We can talk about business anytime
 ```
-
 ```
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Perwollnt&layout=compact&langs_count=10&theme=dark)](https://github.com/Perwollnt)
 </div>
