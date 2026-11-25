@@ -2,12 +2,7 @@
 <h1>Hello There</h1>
 
 I work as a backend/fullstack java dev. We can talk about business anytime
----
-![My github stats](https://github-readme-stats.vercel.app/api?username=Perwollnt&theme=dracula)
----
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Perwollnt)](https://github.com/Perwollnt)
-<!-- [![Maintainability](https://api.codeclimate.com/v1/badges/da35fa3148ae7cb12b24/maintainability)](https://codeclimate.com/github/Perwollnt/welcomer-bot/maintainability) 
-// [![Test Coverage](https://api.codeclimate.com/v1/badges/da35fa3148ae7cb12b24/test_coverage)](https://codeclimate.com/github/Perwollnt/welcomer-bot/test_coverage) -->
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=Perwollnt&layout=compact&langs_count=10&theme=dark)](https://github.com/Perwollnt)
 </div>
 ---
 <h3>Every line must end with a semicolon or else</h3>
